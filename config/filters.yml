@@ -1,0 +1,18 @@
+rendering: ~
+security:  ~
+
+# insert your own filters here
+# MoesifFilter:  
+#   class: MoesifFilter
+#   param:
+#     applicationId: eyJhcHAiOiI2NjA6NjUiLCJ2ZXIiOiIyLjAiLCJvcmciOiIyMDc6MTE2IiwiaWF0IjoxNTYwMzg0MDAwfQ.vvlpq-Fg2xeBT-1pJNhQO4-Fg0_7zcdoV1D6a62ZI-8
+#     debug: true
+
+TestFilter:  
+  class: TestFilter
+  param:
+    applicationId: eyJhcHAiOiI2NjA6NjUiLCJ2ZXIiOiIyLjAiLCJvcmciOiIyMDc6MTE2IiwiaWF0IjoxNTYwMzg0MDAwfQ.vvlpq-Fg2xeBT-1pJNhQO4-Fg0_7zcdoV1D6a62ZI-8
+    debug: true
+
+cache:     ~
+execution: ~
